@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/oogvay1/express-server/issues"
   },
-  "homepage": "https://github.com/oogvay1/express-server#readme"
+  "homepage": "https://github.com/oogvay1/express-server#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
